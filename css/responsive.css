@@ -92,12 +92,12 @@
 }
 
 @media (max-width:700px) {
-  #navbar {
+  #navbar nav a {
   display: none;
-  text: "Exceptional Realty Group"
 }
  #navbar a.menu-icon {
     display: block;
     float:right;
+    padding: 5px;
 }
 }
