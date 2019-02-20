@@ -92,12 +92,11 @@
 }
 
 @media (max-width:700px) {
- #navbar nav a.menu-icon {
-    display: inline;
-}
-
   #navbar {
   display: none;
   text: "Exceptional Realty Group"
+}
+ #navbar nav a.menu-icon {
+    display: inline;
 }
 }
