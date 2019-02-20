@@ -93,7 +93,7 @@
 
 @media (min-width:700px) {
   #navbar nav a.menu-icon {
-    display
+    display: inline;
 }
 
   #navbar {
