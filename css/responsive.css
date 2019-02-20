@@ -96,7 +96,7 @@
   display: none;
   text: "Exceptional Realty Group"
 }
- a.menu-icon {
+ #navbar a.menu-icon {
     display: inline;
 }
 }
